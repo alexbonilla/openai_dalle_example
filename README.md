@@ -1,4 +1,4 @@
-# openai_dalle_example
+# DALL-E Model example using OpenAI API
 Quick Example on how to use OpenAI Dalle Model for Image Generation. 
 
 In order to work locally with these notebooks, you will need to setup your own Open API Key. 
